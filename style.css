@@ -135,6 +135,7 @@ body {
 	margin-bottom: 30px;
 	color: #242424;
 	font-family: 'Lora', serif;
+
 }
 
 .foto_cukrarka {
@@ -151,6 +152,7 @@ body {
 	border-radius: 30px;
 	color: white;
 	text-decoration: none;
+	font-family: 'Lora', serif;
 }
 
 .tlacitko:hover {
