@@ -260,12 +260,52 @@ body {
 }
 
 .pravy p {
+        font-size: 18px;
+        color: #242424;
+        line-height: 1.5;
+        margin: 0;
+        margin-bottom: 30px;
+        font-family: 'Lora', serif;
+}
+
+/* sekce Kontakt */
+
+.kontakt {
+	background-color: #f0f0f0;
+	padding: 80px 0;
+}
+
+.kontakt_obsah {
+	max-width: 1100px;
+	margin: auto;
+}
+
+.nadpis_kontakt {
+	font-size: 36px;
+	color: #3e606b;
+	line-height: 1.25;
+	margin: 0;
+	margin-bottom: 30px;
+	font-family: 'Playfair Display', serif;
+}
+
+.kontakt_obsah p {
 	font-size: 18px;
 	color: #242424;
 	line-height: 1.5;
 	margin: 0;
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 	font-family: 'Lora', serif;
+}
+
+.kontakt_obsah a {
+	color: #242424;
+	text-decoration: none;
+}
+.kontakt_obsah a:hover,
+.kontakt_obsah a:focus,
+.kontakt_obsah a:active {
+	text-decoration: underline;
 }
 
 /*Patička*/
