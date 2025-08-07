@@ -271,13 +271,14 @@ body {
 /* sekce Kontakt */
 
 .kontakt {
-	background-color: #f0f0f0;
-	padding: 80px 0;
+        background-color: #ffe6ef;
+        padding: 80px 0;
 }
 
 .kontakt_obsah {
-	max-width: 1100px;
-	margin: auto;
+        max-width: 1100px;
+        margin: auto;
+        text-align: center;
 }
 
 .nadpis_kontakt {
